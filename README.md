@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsashahzadi123ai&label=Profile%20views&color=0e75b6&style=flat" alt="aqsashahzadi123ai" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Applied Generative AI**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java, C++ and Python**
 
 - 📫 How to reach me **aqsaskp786@gmail.com**
 
